@@ -1,0 +1,19 @@
+{
+  "name": "my-lib-cgi",
+  "version": "1.0.0",
+  "description": "Primeira biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielepaminondas/my-lib-cgi.git"
+  },
+  "author": "Daniel Filho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielepaminondas/my-lib-cgi/issues"
+  },
+  "homepage": "https://github.com/danielepaminondas/my-lib-cgi#readme"
+}
